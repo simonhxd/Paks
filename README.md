@@ -7,7 +7,7 @@ Replaces NetDebugContainer
 Keybind is Insert
 NO IT DOESNT WORK ON MP
 
-pakchunkFlightNite-WindowsClient
+# pakchunkFlightNite-WindowsClient
 Made for 7.30
 Replaces NetDebugContainer
 Keybind is Insert
